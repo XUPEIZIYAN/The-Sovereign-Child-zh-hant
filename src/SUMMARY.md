@@ -19,4 +19,3 @@
 ---
 [結語](./epilogue.md)
 [致謝](./Acknowledgments.md)
-[關於作者](./About_the_Author.md)
